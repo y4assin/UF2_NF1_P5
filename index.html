@@ -1,0 +1,78 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Página Web Responsive</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background-color: rgb(85, 93, 172);
+            margin: 0;
+            padding: 0;
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            text-align: center;
+        }
+        
+        h1 , p{
+            color: white;
+            margin-top: 20px;
+        }
+
+        .container {
+            max-width: 90%;
+            display: flex;
+            flex-wrap: wrap;
+            justify-content: center;
+            align-items: center;
+        }
+
+        .item {
+            width: 50%;
+            padding: 10px;
+            box-sizing: border-box;
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+        }
+
+        img {
+            max-width: 50%;
+            height: auto;
+        }
+
+        @media screen and (max-width: 600px) {
+            .item {
+                width: 100%;
+            }
+        }
+    </style>
+</head>
+<body>
+    <h1>Pagina amb diferents formats imatges</h1>
+    <div class="container">
+        <div class="item">
+            <img src="/images/dollar-1156662_1280.png" alt="Imagen 1">
+            <p>Imatge Original <br>Tamaño: 83KB</p>
+        </div>
+        <div class="item">
+            <img src="/images/dollar_franco_png.png" alt="Imagen 1">
+            <p>Formato: PNG<br>Tamaño: 4050KB</p>
+        </div>
+        <div class="item">
+            <img src="/images/dollar_franco.jpg" alt="Imagen 2">
+            <p>Formato: JPG<br>Tamaño: 310KB</p>
+        </div>
+        <div class="item">
+            <img src="/images/dollar_franco.gif" alt="Imagen 3">
+            <p>Formato: GIF<br>Tamaño: 1504KB</p>
+        </div>
+        <div class="item">
+            <img src="/images/dollar_franco.webp" alt="Imagen 4">
+            <p>Formato: WEBP<br>Tamaño: 255KB</p>
+        </div>
+    </div>
+</body>
+</html>
