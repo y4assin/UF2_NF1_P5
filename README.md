@@ -19,5 +19,5 @@ Podeu fer servir qualsevol framework CSS, si ho creieu convenient.
 
 # Les imatges que he utilitzat son les seguents:
 [Foto Original](https://pixabay.com/photos/dollar-piece-of-money-1156662/)
-<br
+<br>
 [2ª Foto Utilitzada](https://i.imgur.com/XsmwIUF.png)
