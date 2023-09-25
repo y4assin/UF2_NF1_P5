@@ -10,7 +10,8 @@ IMPORTANT: teniu en compte de seguir els termes de la llicència de la imatge es
 que té alguna transparència. A més, feu quatre versions de la imatge modificada amb
 els formats PNG, GIF, JPEG i WEBP. Decidiu la mida que voleu donar a aquestes
 imatges (la mateixa mida per totes).
- Creeu una pàgina web responsive que mostri les quatre imatges, cadascuna amb un peu
+<br>
+Creeu una pàgina web responsive que mostri les quatre imatges, cadascuna amb un peu
 que indiqui el format i la mida del fitxer en KB, en un quadrat de 2x2 que ocupi el 90% de
 l’espai vertical. En pantalles més petites de 600px d’ample es mostrarà una columna amb
 les quatre fotos.
@@ -18,3 +19,4 @@ Podeu fer servir qualsevol framework CSS, si ho creieu convenient.
 
 # Les imatges que he utilitzat son les seguents:
 [Foto Original](https://pixabay.com/photos/dollar-piece-of-money-1156662/)
+[2ª Foto](https://i.imgur.com/XsmwIUF.png)
