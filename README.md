@@ -11,7 +11,7 @@ que té alguna transparència. A més, feu quatre versions de la imatge modifica
 els formats PNG, GIF, JPEG i WEBP. Decidiu la mida que voleu donar a aquestes
 imatges (la mateixa mida per totes).
 <br>
-Creeu una pàgina web responsive que mostri les quatre imatges, cadascuna amb un peu
+<br><br>Creeu una pàgina web responsive que mostri les quatre imatges, cadascuna amb un peu
 que indiqui el format i la mida del fitxer en KB, en un quadrat de 2x2 que ocupi el 90% de
 l’espai vertical. En pantalles més petites de 600px d’ample es mostrarà una columna amb
 les quatre fotos.
