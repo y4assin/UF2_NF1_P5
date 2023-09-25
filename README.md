@@ -15,3 +15,6 @@ que indiqui el format i la mida del fitxer en KB, en un quadrat de 2x2 que ocupi
 l’espai vertical. En pantalles més petites de 600px d’ample es mostrarà una columna amb
 les quatre fotos.
 Podeu fer servir qualsevol framework CSS, si ho creieu convenient.
+
+# Les imatges que he utilitzat son les seguents:
+[Foto Original](https://pixabay.com/photos/dollar-piece-of-money-1156662/)
